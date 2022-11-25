@@ -99,4 +99,5 @@ begin
 
 	END
 END
+// sonrasında prosedürü çalıştırmak için aşağıdaki kodu giriyoruz
 exec sp_creaatemodel @objename = NULL
